@@ -1,0 +1,10 @@
+#time{
+    background-color: red;
+    padding: 30px;
+    color: aliceblue;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    width: 20%;
+    border-radius: 15px;    
+}
